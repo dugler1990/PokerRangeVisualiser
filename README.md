@@ -5,7 +5,9 @@
 
 # Inspired by non-free poker software
 
-This is a QT5 app that allows you to select "Ranges" of poker hands, define a game state, and calculate you´re probability of ending up with the best hand.
+This is a QT5 app in Python 3.6.5
+
+Select "Ranges" of poker hands, define a game state, and it outputs your % to win 
 
 # Next steps:
 
