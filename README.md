@@ -1,4 +1,4 @@
 # PokerRangeVisualiser
 
 
-![My image](dugler1990.github.com/PokerRangeVisualiser/img/ReadMePic1.jpg)
+https://github.com/dugler1990/PokerRangeVisualiser/edit/master/README.md
